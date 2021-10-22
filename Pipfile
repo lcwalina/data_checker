@@ -8,6 +8,7 @@ scrapy = "*"
 
 [dev-packages]
 black = "*"
+aiosmtpd = "*"
 
 [requires]
 python_version = "3.9"
